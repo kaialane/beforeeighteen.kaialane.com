@@ -1,11 +1,6 @@
-# web-presentation
+# Before Eighteen
 
-Project is designed to quickly build presentation as a web page.
-
-To create your presentation just fork this repository.
-
-presentation example https://deepidea.github.io/web-presentation/
-
+URL: http://beforeeighteen.kaialane.com
 
 **NOTES**
 
@@ -18,6 +13,3 @@ presentation example https://deepidea.github.io/web-presentation/
 - Presentation pages will be displayed in chronological order
 
 - Githib pages will automatically generate/update website with presentation for you (please wait up to 1 minute)
-
-
-Enjoy
